@@ -23,3 +23,6 @@ Apontar os erros encontrados no código:
     
 * Em nenhum momento há declaração da classe de senha, sendo assim, a clase main não conseguirá obter dados;
 
+## ETAPA 3:
+
+![Grafo de Fluxo](grafo.png)
